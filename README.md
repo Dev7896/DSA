@@ -1,3 +1,22 @@
+# 1. what is dsa (data structure and algorithms) ? 
+
+data structure --> the way of organizing and storing data in memory so that it can be used effectively. common types --  linear , non-linear , hash based ex. queue , stack , array 
+algorithms --> step by step procedure or set or rules to solve specific problem ex. divide and conquer , greedy , 
+
+# 2. why is dsa important ?
+
+| Reason                         | Explanation                                              |
+| ------------------------------ | -------------------------------------------------------- |
+| **1. Problem Solving**         | Helps break complex problems into simple steps.          |
+| **2. Efficient Code**          | Optimizes memory and execution time.                     |
+| **3. Interview Prep**          | Core topic in coding interviews (FAANG, startups, etc.). |
+| **4. Logical Thinking**        | Improves analytical and reasoning skills.                |
+| **5. Foundation for Dev Work** | Backend, databases, ML — all rely on data structures.    |
+
+
+choosing language java (if you know c++ choose that stl(standard template libraries helps a lot for dsa and performance or spped wise is also good))
+
+
 # What is asymptotic notation ? 
 Asymptotic notation describes the behavior of an algorithm's running time or space usage as the input size grows towards infinity.
 
